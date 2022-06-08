@@ -24,7 +24,7 @@ body{
     padding: 1rem;
 }
 
-.r-section{
+.right-section{
     /* grid-area: 1/1/3/2; */
     grid-column: span 1 / span 2;
     background-color: #e7a01d;
@@ -98,7 +98,7 @@ h3{
     height:4px;
 }
 
-.r-main-content{
+.right-main-content{
     padding: 2rem 3rem;
 }
 

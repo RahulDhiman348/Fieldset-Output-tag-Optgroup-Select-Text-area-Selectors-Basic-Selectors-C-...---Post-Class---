@@ -102,7 +102,7 @@ h3{
     padding: 2rem 3rem;
 }
 
-.rtitle{
+.right-title{
     text-transform:uppercase;
     font-size:1.2rem;
     font-weight:700;
@@ -110,7 +110,7 @@ h3{
     letter-spacing:1px;
 }
 
-.paragraph{
+.para{
     padding:0.5rem;
 }
 
